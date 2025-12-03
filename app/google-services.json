@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457138149982",
+    "project_id": "coursemaster-693c1",
+    "storage_bucket": "coursemaster-693c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457138149982:android:5df65f90285562afa8f2cf",
+        "android_client_info": {
+          "package_name": "com.tecsup.coursemaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCefheWHlaZldF2g6gdWiVkZn73V4Mce84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
