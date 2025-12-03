@@ -44,10 +44,10 @@ android {
 
 dependencies {
 
-    // 🔥 Firebase BOM
+    // Firebase BOM
     implementation(platform("com.google.firebase:firebase-bom:33.4.0"))
 
-    // 🔥 Firebase Firestore y Auth
+    //  Firebase Firestore y Auth
     implementation("com.google.firebase:firebase-auth-ktx")
     implementation("com.google.firebase:firebase-firestore-ktx")
 
@@ -61,7 +61,7 @@ dependencies {
     implementation(libs.androidx.compose.ui.tooling.preview)
     implementation(libs.androidx.compose.material3)
 
-    // 🔥 Navigation Compose
+    //  Navigation Compose
     implementation("androidx.navigation:navigation-compose:2.8.0")
 
     // Kotlin Coroutines
@@ -76,4 +76,5 @@ dependencies {
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
+    implementation("androidx.compose.material:material-icons-extended:1.5.4")
 }
