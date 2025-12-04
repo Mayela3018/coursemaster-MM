@@ -1,5 +1,5 @@
 package com.tecsup.coursemaster.data
-
+//
 import com.google.firebase.firestore.FirebaseFirestore
 import kotlinx.coroutines.channels.awaitClose
 import kotlinx.coroutines.flow.Flow

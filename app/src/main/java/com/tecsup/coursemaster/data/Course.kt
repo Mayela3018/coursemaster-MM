@@ -1,5 +1,5 @@
 package com.tecsup.coursemaster.data
-
+//
 data class Course(
     val id: String = "",
     val name: String = "",
